@@ -6,8 +6,9 @@
 
 
 <div align="center"><a href="#top">
-  <img src="./public/images/tel-login.png alt=" model s">
-<img src="./public/images/homepage.png" alt="model y">
+<img src="./public/images/telalogin.PNG alt=" tela login">
+<img src="./public/images/homepage.PNG" alt="homepage ">
+ <img src="./public/images/movies.PNG alt=" movies">                                                   
 
 >Clone da Disney Plus. O projeto foi desenvolvido com ReactJs e Styled-components, redux-toolkit e firebase.
 </a></div>
