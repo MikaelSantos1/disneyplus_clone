@@ -15,10 +15,10 @@
 </a></div>
 
 <a href="https://disneyplus-clone-3eeed.web.app/detail/4vJe1ekutfvs1u8Z1aXK" target="_blank">
-    <img width ="150px" height="150px"alt="Demo on Netlify" target="_blank" src="https://symbols.getvecta.com/stencil_80/39_firebase-icon.2bf1891c1d.svg">
+    <img width ="150px" height="150px"alt="Demo on Netlify"  src="https://symbols.getvecta.com/stencil_80/39_firebase-icon.2bf1891c1d.svg">
   </a>
 
-<p align="left">(<a href="https://disneyplus-clone-3eeed.web.app/detail/4vJe1ekutfvs1u8Z1aXK">Clique aqui para abrir um demontraçâo</a>)</p>
+<p align="left">(<a href="https://disneyplus-clone-3eeed.web.app/detail/4vJe1ekutfvs1u8Z1aXK" target="_blank">Clique aqui para abrir um demontraçâo</a>)</p>
 
 
 
