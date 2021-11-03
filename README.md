@@ -6,9 +6,9 @@
 
 
 <div align="center"><a href="#top">telalogin
-<img src="./public/images/telalogin.PNG alt="tela-login">
+<img src="./public/images/telalogin.PNG" alt="tela-login">
 <img src="./public/images/homepage.PNG" alt="homepage ">
- <img src="./public/images/movies.PNG alt="movies">                                                   
+ <img src="./public/images/movies.PNG" alt="movies">                                                   
 
 >Clone da Disney Plus. O projeto foi desenvolvido com ReactJs e Styled-components, redux-toolkit e firebase.
 </a></div>
