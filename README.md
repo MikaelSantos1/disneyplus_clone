@@ -14,11 +14,11 @@
 >Clone da Disney Plus. O projeto foi desenvolvido com ReactJs e Styled-components, redux-toolkit e firebase.
 </a></div>
 
-<a href="https://disneyplus-clone-3eeed.web.app/detail/4vJe1ekutfvs1u8Z1aXK" target="_blank">
+<a href="https://disneyplus-clone-3eeed.web.app" target="_blank">
     <img width ="150px" height="150px"alt="Demo on Netlify"  src="https://symbols.getvecta.com/stencil_80/39_firebase-icon.2bf1891c1d.svg">
   </a>
 
-<p align="left">(<a href="https://disneyplus-clone-3eeed.web.app/detail/4vJe1ekutfvs1u8Z1aXK" target="_blank">Clique aqui para abrir um demontraçâo</a>)</p>
+<p align="left">(<a href="https://disneyplus-clone-3eeed.web.app target="_blank">Clique aqui para abrir um demontraçâo</a>)</p>
 
 
 
